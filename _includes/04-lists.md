@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. :eyes:
+2. :hankey:
+3. :trollface:
